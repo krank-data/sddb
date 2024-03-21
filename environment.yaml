@@ -1,0 +1,11 @@
+name: krank-data-sddb
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.12.*
+  - jupyterlab==4.1.*
+  - ipykernel==6.28.*
+  - matplotlib==3.8.*
+  - pandas==2.2.*
+  - seaborn==0.12.*

@@ -1,0 +1,6 @@
+name: krank-data-sddb-raw
+channels:
+  - defaults
+dependencies:
+  - python==3.12.*
+  - pandas==2.2.*

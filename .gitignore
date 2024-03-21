@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+
+# Ignore the original raw file that was downloaded prior to compression
+*.csv
+
+# Ignore the output files of prepare.ipynb
+*.tsv.xz
