@@ -11,7 +11,7 @@ Dream reports collected from a variety of sources and aggregated in the public
 | MD5 | `md5:f05c3615c978a16dcf0ddb2440c56914` |
 | SHA256 | `sha256:df9e9cc5db89fc28ddb20d5d38153c56d1c77f971626646bb1a1b963e39f607e` |
 | Source | [Sleep and Dream Database](https://sleepanddreamdatabase.org/library) |
-| Citation | Bulkeley, K. (2014). Digital dream analysis: A revised method. _Consciousness and Cognition_. doi:[10.1016/j.concog.2014.08.015](https://doi.org/10.1016/j.concog.2014.08.015) |
+| References | Bulkeley, K. (2014). Digital dream analysis: A revised method. _Conscious Cogn_. doi:[10.1016/j.concog.2014.08.015](https://doi.org/10.1016/j.concog.2014.08.015) <br> Bulkeley, K. (2023). New approaches in the empirical study of dreams. _Poligrafi_. doi:[10.35469/poligrafi.2023.412](https://doi.org/10.35469/poligrafi.2023.412) |
 | Processing code | [`prepare.ipynb`](https://nbviewer.org/github/krank-data/sddb/blob/main/prepare.ipynb) |
 | Processing environment | [`environment.yaml`](environment.yaml) |
 

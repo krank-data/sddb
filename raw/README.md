@@ -21,8 +21,8 @@ Compressed file size: `5.348736 Mb`
 | Size | 5 Mb |
 | MD5 | `md5:7a28c8f29584ab3375db2dc2bbc86d6d` |
 | SHA256 | `sha256:11518b215efdff596b70b5f150e8df673355297d210e36fb46ac0e08651dcbff` |
-| Source | https://sleepanddreamdatabase.org/library (@`2024-03-15T18:37:35+00:00`) |
-| Citation | Bulkeley, K. (2014). Digital dream analysis: A revised method. _Consciousness and Cognition_. doi:[10.1016/j.concog.2014.08.015](https://doi.org/10.1016/j.concog.2014.08.015) |
+| Source | [Sleep and Dream Database](https://sleepanddreamdatabase.org/library) (@`2024-03-15T18:37:35+00:00`) |
+| References | Bulkeley, K. (2014). Digital dream analysis: A revised method. _Conscious Cogn_. doi:[10.1016/j.concog.2014.08.015](https://doi.org/10.1016/j.concog.2014.08.015) <br> Bulkeley, K. (2023). New approaches in the empirical study of dreams. _Poligrafi_. doi:[10.35469/poligrafi.2023.412](https://doi.org/10.35469/poligrafi.2023.412) |
 | Processing code | [`compress.py`](compress.py) |
 | Processing environment | [`environment.yaml`](environment.yaml) |
 
