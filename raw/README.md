@@ -10,7 +10,7 @@ More specifically, the single data file [`dream-export.csv.xz`](dream-export.csv
 2. [Performed a "blank" search](https://sleepanddreamdatabase.org/search_results/%7B%22freeSearchOperators%22%3A[%22%22]%2C%22freeSearchWords%22%3A[[%22%22]]%2C%22keywordOperators%22%3A[%22%22]%2C%22startBce%22%3A%22false%22%2C%22endBce%22%3A%22false%22%7D) by leaving all search parameters empty and hitting the `Search` button
 3. Hit the `Export CSV` button
 4. Hit the `Skip and Export CSV` button
-5. Compressed the CSV file using LZMA algorithm by running [`compress.py`](compress.py) in a conda environment generated from [`environment.yaml`](environment.yaml).
+5. Compressed the CSV file using LZMA algorithm by running [`create.py`](create.py) in a conda environment generated from [`environment.yaml`](environment.yaml).
 
 Original file size: `37.127982 Mb`
 Compressed file size: `5.348736 Mb`
